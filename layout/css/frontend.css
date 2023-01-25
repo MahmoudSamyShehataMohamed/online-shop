@@ -1,0 +1,67 @@
+/* start main reuls*/
+body
+{
+    background-color:#f3f3f3db;
+}
+
+h1
+{
+    margin-bottom:20px;
+}
+/*End main reules*/
+/*statrt header*/
+.upper-bar
+{
+    background-color: #fff;
+    padding:10px;
+    text-align: right;
+    font-size:bold;
+}
+.upper-bar span
+{
+    font-weight: bold;
+}
+/*End header*/
+/*start navbar*/
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+    font-size: 1.25rem;
+    color:#fff;
+}
+.navbar
+{
+    margin-bottom:10px;
+}
+/*End navbar*/
+/*Start login page*/
+.login-page form
+{
+    max-width:400px;
+    margin:auto;
+}
+.login-page form input
+{
+    margin-bottom:10px;
+}
+/*End login page*/
+
+/*start category page */
+.text-box
+{
+    background-color:#fff;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.thumbnail img
+{
+    margin-top:50px;
+}
+.price-tag
+{
+    background-color: #bfbfbf;
+    position:absolute;
+    font-weight: bold;
+    top:10px;
+}
+/* End category Page */
